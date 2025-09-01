@@ -26,6 +26,6 @@ A comprehensive financial sentiment analysis system built by fine-tuning a pre-t
 ## Model Performance
 The fine-tuned BERT model successfully classifies financial sentiment with perfect accuracy on test examples:
 
-- "Tesla stock surged 15% after beating earnings expectations" → **Positive** ✅
-- "Company announces massive layoffs amid financial struggles" → **Negative** ✅
-- "Apple shares plummet following disappointing iPhone sales" → **Negative** ✅
+- "Tesla stock surged 15% after beating earnings expectations" → **Positive** 
+- "Company announces massive layoffs amid financial struggles" → **Negative** 
+- "Apple shares plummet following disappointing iPhone sales" → **Negative** 
