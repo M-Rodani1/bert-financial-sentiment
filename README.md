@@ -54,7 +54,7 @@ Added precision, recall, and F1-score tracking per class - revealed the original
 ### 4. Learning Rate Scheduling
 Implemented linear warmup (10%) + decay for better convergence.
 
-## 📁 Dataset
+## Dataset
 
 - **Size**: 5,842 financial headlines
 - **Split**: 4,673 train / 1,169 validation
