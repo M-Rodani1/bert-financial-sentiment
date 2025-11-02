@@ -101,7 +101,7 @@ High negative recall (87%) makes it suitable for applications where detecting ba
 
 ## Documentation
 
-See [IMPROVEMENTS.md](IMPROVEMENTS.md) for detailed technical documentation of all enhancements.
+See improvements.md for detailed technical documentation of all enhancements.
 
 ## Future Work
 
